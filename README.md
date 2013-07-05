@@ -1,0 +1,4 @@
+jquery-class
+============
+
+jQuery Class
