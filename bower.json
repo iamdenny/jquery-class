@@ -2,7 +2,7 @@
   "name": "jquery-class",
   "version": "0.0.1",
   "main": [
-  	"src/jquery.Class.js"
+    "src/jquery.Class.js"
   ],
   "ignore": [
     "node_modules",
