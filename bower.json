@@ -4,15 +4,13 @@
   "main": "src/jquery.Class.js",
   "ignore": [
     "node_modules",
-    "components",
     "bower_components",
-    "test",
-    "tests"
+    "test"
   ],
   "dependencies": {
     "jquery": "~2.0.3"
   },
   "devDependencies" {
-	"qunit": "~1.11.0"  
+  	"qunit": "~1.11.0"  
   }
 }
