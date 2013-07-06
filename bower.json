@@ -10,7 +10,9 @@
     "test"
   ],
   "dependencies": {
-    "jquery": "~2.0.3",
-    "qunit": "~1.11.0"  
+    "jquery": "~2.0.3"    
+  },
+  "devDependencies" {
+    "qunit": "latest"
   }
 }

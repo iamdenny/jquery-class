@@ -21,6 +21,6 @@
     }
   ],
   "require": {
-        "components/jquery": ">=1.4"
+    "components/jquery": ">=1.4"
   }
 }
